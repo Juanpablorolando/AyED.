@@ -1,4 +1,4 @@
-# AyED.
+# AyED
 nombré: Juan Pablo 
 apellido: Rolando
 codigo de comisión: K1027
